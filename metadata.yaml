@@ -1,0 +1,29 @@
+_repo: Betty-Lee-Senior_44808
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44808-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grove, Harriet Pyne
+    gutenberg_agent_id: '37167'
+    url: http://www.gutenberg.org/2009/agents/37167
+description: ''
+gutenberg_issued: '2014-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Entertaining -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'School sports -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'High school seniors -- Juvenile fiction'
+title: Betty Lee, Senior
+url: http://www.gutenberg.org/ebooks/44808
